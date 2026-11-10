@@ -1,0 +1,14 @@
+{
+  "name": "tank-battle-benchmark",
+  "version": "1.0.0",
+  "description": "Original tank-battle game (HTML5 Canvas + Node) built as a benchmark deliverable.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
